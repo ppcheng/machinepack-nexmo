@@ -9,7 +9,7 @@
 Interact with the Nexmo SMS-related API
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-nexmo.svg)](http://badge.fury.io/js/machinepack-nexmo) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-nexmo.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-nexmo)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-nexmo.svg)](http://badge.fury.io/js/machinepack-nexmo) [![Build Status](https://travis-ci.org/ppcheng/machinepack-nexmo.png?branch=master)](https://travis-ci.org/ppcheng/machinepack-nexmo)
 
 ```sh
 $ npm install machinepack-nexmo
