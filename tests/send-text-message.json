@@ -1,0 +1,23 @@
+{
+  "machine": "send-text-message",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {
+      },
+      "outcome": "error"
+    },
+    {
+      "todo": true,
+      "using": {
+      },
+      "outcome": "requestError"
+    },
+    {
+      "todo": true,
+      "using": {
+      },
+      "outcome": "success"
+    }
+  ]
+}

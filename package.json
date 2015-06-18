@@ -1,0 +1,29 @@
+{
+  "name": "machinepack-nexmo",
+  "version": "0.1.0",
+  "description": "Interact with the Nexmo SMS-related API",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "nexmo",
+    "machines",
+    "machinepack"
+  ],
+  "author": "ppcheng",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^9.0.0",
+    "superagent": "^1.2.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^2.0.0"
+  },
+  "machinepack": {
+    "friendlyName": "nexmo",
+    "machineDir": "machines/",
+    "machines": [
+      "send-text-message"
+    ]
+  }
+}
