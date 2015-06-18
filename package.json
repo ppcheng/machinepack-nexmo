@@ -12,6 +12,10 @@
   ],
   "author": "ppcheng",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ppcheng/machinepack-nexmo.git"
+  },
   "dependencies": {
     "machine": "^9.0.0",
     "superagent": "^1.2.0"
